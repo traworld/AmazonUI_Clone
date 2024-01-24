@@ -21,7 +21,28 @@ This project is a simple Amazon clone built using HTML and CSS. I created this p
 
 ## Acknowledgments
 
-- Inspired by the Amazon website.
+## Inspired by the Amazon website.
+
+
+
+
+<img width="1437" alt="Screenshot 2024-01-23 at 7 27 03 PM" src="https://github.com/traworld/Amazon_Clone/assets/74282295/28c7f7db-c156-4dd5-9bfc-45ad599241b5">
+
+
+
+
+
+
+
+## My Created Website
+
+
+
+
+
+
+<img width="1437" alt="Screenshot 2024-01-24 at 12 30 59 AM" src="https://github.com/traworld/Amazon_Clone/assets/74282295/56fe4ecf-6c06-4c31-853e-ae9a05b562de">
+
 
 
 ## Author
